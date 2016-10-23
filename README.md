@@ -1,6 +1,6 @@
-# Website for RCE
+# Website for KnowlegeFinder
 
-Homepage (landing page) and announcements for RCE (http://rcenvironment.de).
+Homepage (landing page) and announcements for KnowledgeFinder (http://knowledgefinder.github.io).
 
 Based on [Pelican](http://blog.getpelican.com/) and a modifed Polar theme by [CodePassenger](http://www.codepassenger.com/).
 
@@ -17,16 +17,16 @@ pip install fabric
 pip install ghp-import
 ```
 
-* Clone rce-website
+* Clone KnowledgeFinder
 
   ```
-git clone https://github.com/DLR-SC/rce-website
+git clone https://github.com/DLR-SC/KnowledgeFinder
 ```
   or
   ```
-git clone git@github.com:DLR-SC/rce-website.git
+git clone git@github.com:DLR-SC/KnowledgeFinder.git
 ```
-* Change to ```rce-website/```
+* Change to ```KnowledgeFinder/```
 
 ### Configuration
 
@@ -43,7 +43,7 @@ PORT = 8001
   ```
 fab build
 ```
-
+   (If you are using Windows and are getting the error ```ImportError: No module named Crypto.PublicKey´´´, rename the crypto folder in site-packages to Crypto.)
  * Start local server for testing (accessible via http://localhost:[port]/)
   ```
 fab serve
@@ -64,12 +64,12 @@ Add new articles to `content`.
 
 ### Metadata
 
-The required meta data for RCE release announcements are:
+The required meta data for KnowledgeFinder release announcements are:
 ```
-Title: Release 6.3.0 
-Date: 2015-07-29 10:20
+Title: Release 1.0 
+Date: 2016-09-20 12:00
 Category: Releases
-Author: RCE
+Author: KnowledgeFinder
 ```
 
 

@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'DLR'
-SITENAME = u'RCE'
+SITENAME = u'KnowledgeFinder'
 SITEURL = ''
 
 PATH = 'content'
@@ -29,8 +29,7 @@ LINKS = (('Simulation and Software Technology', 'http://www.dlr.de/sc'),
          ('Impressum', 'http://www.dlr.de/dlr/desktopdefault.aspx/tabid-10067/149_read-17/'),)
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/RCEnvironment'),
-          ('YouTube', 'https://www.youtube.com/user/rcenvironment'),)
+SOCIAL = (('Twitter', 'https://twitter.com/dlr_software'))
 
 DEFAULT_PAGINATION = 10
 
