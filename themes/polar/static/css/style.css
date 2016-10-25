@@ -731,7 +731,7 @@ a:focus{
 	left: 70px;
 	font-size: 14px;
 	top: 0;
-	color: #69a780; 
+	color: #00437a; 
 	font-weight: 700;
 }
 
@@ -807,7 +807,7 @@ a:focus{
 	height: 220px;
 	display: inline-block; 
 	overflow: visible;
-	background: #69a780;
+	background: #00437a;
 	border-radius: 0;
 }
 .reduce-co2-bar .progress span {
@@ -868,7 +868,7 @@ a:focus{
 	content: "";
 	position: absolute; 
 	background: #ffffff;
-	border:5px solid #69a780; 
+	border:5px solid #00437a; 
 	border-radius: 100%;
 	z-index: -1;
 }
@@ -1012,7 +1012,7 @@ a:focus{
 }
 .communities .take-part .volunteer:hover:before,
 .communities .take-part .donate:before {
-	background: #69a780;
+	background: #00437a;
 }
 .follow-share .follow-title {
 	position: relative;
@@ -1218,7 +1218,7 @@ a:focus{
 	height: 50px; 
 }
 .single-member .social-btn a:hover {
-	background: #69a780;
+	background: #00437a;
 	color: #fff;
 } 
 .single-member .name {
@@ -1236,7 +1236,7 @@ a:focus{
 	width: 40px;
 	height: 3px;
 	margin-left: -20px;
-	background: #69a780;
+	background: #00437a;
 	position: absolute;
 }
 .single-member .designation {
@@ -1324,7 +1324,7 @@ a:focus{
 	width: 40px;
 	height: 3px;
 	margin-left: -20px;
-	background: #69a780;
+	background: #00437a;
 	position: absolute;
 }
 .testimonial-carousel .carousel-indicators {
@@ -1624,7 +1624,7 @@ article.single-post {
 	color: #fff;
 } 
 .comment-body .reply a:hover {
-	background: #69a780;
+	background: #00437a;
 }
 /* 19 - Comments  End 
 ******************************************************/
@@ -1737,7 +1737,7 @@ textarea.wpcf7-form-control {
 	font-weight: 700;
 } 
 .contact-form .wpcf7-form-control.wpcf7-submit:hover {
-	background: #69a780;
+	background: #00437a;
 }
 div.wpcf7-validation-errors,
 div.wpcf7-mail-sent-ok { 
@@ -1779,7 +1779,7 @@ div.wpcf7-mail-sent-ok {
 	font-weight: 700;
 }
 .comment-form .submit-btn:hover {
-	background: #69a780;
+	background: #00437a;
 }
 /* 21 - Comment Replay End 
 ******************************************************/ 
@@ -2122,7 +2122,7 @@ article.news-container  .entry {
 }
 .select-cause .make-donation,
 .select-cause .selection-complete {
-	background:#69a780;
+	background:#00437a;
 	display: inline-block;
 	width: 100%;
 	color: #fff;
@@ -2260,14 +2260,14 @@ article.news-container  .entry {
 	margin-bottom: 15px; 
 }
 .donate-from .form-control:focus{ 
-	border-color:#69a780;
+	border-color:#00437a;
 	color:#ffffff;
 	outline: none;
 	outline-offset:none;
 	box-shadow: none;
 }
 .donate-from .form-control:focus+.icon {
-	background-color: #69a780;
+	background-color: #00437a;
 	color: #fff;
 }
 .donate-from .user-field {
@@ -2359,7 +2359,7 @@ article.news-container  .entry {
 	margin-top: 15px;
 }
 .donate-from .donate-submit:hover{
-	background-color: #69a780;
+	background-color: #00437a;
 }
 
 
@@ -2434,7 +2434,7 @@ article.news-container  .entry {
 } 
 .join-us.btn { 
 	color: #ffffff;
-	background: #69a780;
+	background: #00437a;
 	border-radius: 0;
 	line-height: 45px;
 	padding: 0 40px;
@@ -2585,7 +2585,7 @@ article.news-container  .entry {
 	font-size: 1em;
 }
 .success-stories .stories-box {
-	color: #69a780;
+	color: #00437a;
 }
 .success-stories .stories-box .icon {
 	font-size: 4.5em;
@@ -2689,7 +2689,7 @@ article.news-container  .entry {
 }
 .pricing-table .sign-up.btn { 
 	color: #ffffff;
-	background: #69a780;
+	background: #00437a;
 	border-radius: 0;
 	line-height: 45px;
 	padding: 0 50px;
