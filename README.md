@@ -2,7 +2,7 @@
 
 Homepage (landing page) and announcements for KnowledgeFinder (http://knowledgefinder.github.io).
 
-Based on [Pelican](http://blog.getpelican.com/) and a modifed Polar theme by [CodePassenger](http://www.codepassenger.com/).
+Based on [Pelican](http://blog.getpelican.com/) and a modified Polar theme by [CodePassenger](http://www.codepassenger.com/).
 
 ## Local Installation
 
