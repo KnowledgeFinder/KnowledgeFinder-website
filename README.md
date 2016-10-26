@@ -16,7 +16,10 @@ pip install markdown
 pip install fabric
 pip install ghp-import
 ```
-   (If you are using Windows, you have to install ghp-import from https://github.com/davisp/ghp-import.
+  or if you are using Windows
+  ```
+pip install https://github.com/chevah/ghp-import/archive/win-support.zip 
+```
 
 * Clone KnowledgeFinder
 
@@ -88,7 +91,7 @@ Author: KnowledgeFinder
 
 ### Deploy output to master
 
-After building the website, copy the output to master:
+After building the website, deploy the page to master and push it:
   ```
 fab gh_pages
 ```
