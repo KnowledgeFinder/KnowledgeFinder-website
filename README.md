@@ -16,17 +16,25 @@ pip install markdown
 pip install fabric
 pip install ghp-import
 ```
+   (If you are using Windows, you have to install ghp-import from https://github.com/davisp/ghp-import.
 
 * Clone KnowledgeFinder
 
   ```
-git clone https://github.com/DLR-SC/KnowledgeFinder
+git clone https://github.com/KnowledgeFinder/knowledgefinder.github.io.git
 ```
   or
   ```
-git clone git@github.com:DLR-SC/KnowledgeFinder.git
+git clone git@github.com:KnowledgeFinder/knowledgefinder.github.io.git
 ```
+
 * Change to ```KnowledgeFinder/```
+
+* Switch to ```source``` branch.
+  
+  ```
+git checkout source
+```
 
 ### Configuration
 
@@ -72,12 +80,15 @@ Category: Releases
 Author: KnowledgeFinder
 ```
 
-
-
 ### Image sizes
 
  * Article image: 870x440 px (doesn't apply for the overview image of the article)
  * Thumbnail large: 100x108
  * Thumbnail small: 67x73
 
+### Deploy output to master
 
+After building the website, copy the output to master:
+  ```
+fab gh_pages
+```
