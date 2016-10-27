@@ -17,7 +17,7 @@ The source code can be found on [GitHub](https://github.com/KnowledgeFinder). It
 
 ## Documentation
 
-The documentation can be found in the respective repository. The main documentation can be found in the [core project](https://github.com/DLR-SC/KnowledgeFinderCore/wiki).
+The documentation can be found in the respective repository. The main documentation can be found in the [core project](https://github.com/KnowledgeFinder/knowledgefinder-core/wiki).
 
 ## How to start
 
