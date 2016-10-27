@@ -8,12 +8,12 @@ We are proud to announce the first open source version of KnowledgeFinder.
 
 ## Source Code
 
-The source code can be found on [GitHub](https://github.com/DLR-SC). It consist of three projects
+The source code can be found on [GitHub](https://github.com/KnowledgeFinder). It consist of four projects:
 
-* [KnowledgeFinderCore](https://github.com/DLR-SC/KnowledgeFinderCore)
-* [KnowledgeFinderDataimport](https://github.com/DLR-SC/KnowledgeFinderDataimport)
-* [KnowledgeFinderWebservice](https://github.com/DLR-SC/KnowledgeFinderWebservice)
-* [KnowledgeFinderTheme](https://github.com/DLR-SC/KnowledgeFinderTheme)
+* [KnowledgeFinder-Core](https://github.com/KnowledgeFinder/knowledgefinder-core)
+* [KnowledgeFinder-Dataimport](https://github.com/KnowledgeFinder/knowledgefinder-dataimport)
+* [KnowledgeFinder-Webservice](https://github.com/KnowledgeFinder/knowledgefinder-webservice)
+* [KnowledgeFinder-Theme](https://github.com/KnowledgeFinder/knowledgefinder-theme)
 
 ## Documentation
 
