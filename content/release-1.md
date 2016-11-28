@@ -13,7 +13,7 @@ The source code can be found on [GitHub](https://github.com/KnowledgeFinder). It
 * [KnowledgeFinder-Core](https://github.com/KnowledgeFinder/knowledgefinder-core)
 * [KnowledgeFinder-Dataimport](https://github.com/KnowledgeFinder/knowledgefinder-dataimport)
 * [KnowledgeFinder-Webservice](https://github.com/KnowledgeFinder/knowledgefinder-webservice)
-* [KnowledgeFinder-Theme](https://github.com/KnowledgeFinder/knowledgefinder-theme)
+* [KnowledgeFinder-Config-Example](https://github.com/KnowledgeFinder/knowledgefinder-config-example)
 
 ## Documentation
 
