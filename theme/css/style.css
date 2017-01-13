@@ -331,7 +331,7 @@ a:focus{
 }
 .main-mav>li>a.donate:focus,
 .main-mav>li>a.donate:hover {
-	background: #a31818;
+	background: #31859c;
 	color: #fff;
 }
 .main-mav>li>a.donate.green {
@@ -498,7 +498,7 @@ a:focus{
 }
 .top-sec-btn:hover{
 	color: #fff; 
-	background: #a31818;
+	background: #31859c;
 }
 .top-sec-btn:hover:after { 
 	background: #00a0af;
@@ -597,7 +597,7 @@ a:focus{
 	height: 50px;
 }
 .top-slider-container.v2 .top-sec-btn:hover {
-	background: #a31818;
+	background: #31859c;
 }
 .top-slider-container.v2 .top-sec-btn:after {
 	display: none;
@@ -621,7 +621,7 @@ a:focus{
 	        transition: all .25s ease;
 }
 .top-slider-container.v2 .video-link:hover .icon {
-	color : #a31818;
+	color : #31859c;
 }
 
 /* 4 - Slider End
