@@ -74,6 +74,11 @@ p {
 	font-weight: 400;
 	line-height: 30px;
 }
+ul {
+	font-size: 0.9375em;
+	font-weight: 400;
+	line-height: 30px;
+}
 a,
 a:after,
 a:before,
@@ -343,7 +348,7 @@ a:focus{
 	color: #fff;
 }
 .transparent-nav #main-menu {
-	background: rgba(255,255,255,.30);
+	background: rgba(255,255,255,.80);
 	-webkit-transition: all .25s ease;
 	   -moz-transition: all .25s ease;
 	    -ms-transition: all .25s ease;
@@ -566,7 +571,7 @@ a:focus{
 
 /* Top V2 Slider */
 .top-slider-container.v2 .overlay {
-	background-color: rgba(212, 226, 242, 0.8);
+	background-color: rgba(212, 226, 242, 0.9);
 }
 .top-slider-container.v2 .top-heading-1 {
 	max-width: 600px;
@@ -1070,7 +1075,7 @@ a:focus{
 /* 10 - Page Name
 ******************************************************/
  .page-name  .overlay {
-	background-color: rgba(255,255,255,.8);
+	background-color: rgba(255,255,255,.9);
 	padding: 45px 0 50px 0;
 }
 .page-name .page-title {
