@@ -28,8 +28,11 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Simulation and Software Technology', 'http://www.dlr.de/sc'),
          ('Impressum', 'http://www.dlr.de/dlr/desktopdefault.aspx/tabid-10067/149_read-17/'),)
 
+GITHUB_URL = 'https://github.com/KnowledgeFinder'
+TWITTER_USERNAME = 'dlr_software'
+
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/dlr_software'))
+SOCIAL = (('Twitter', 'https://twitter.com/dlr_software'), ('Facebook', 'https://www.facebook.com/DLRsoftware/'))
 
 DEFAULT_PAGINATION = 10
 
