@@ -14,11 +14,11 @@
 	<li>Integration of different data sources via a shared metadata model.</li>
 	<li>Flexible data sources, through specific crawlers (SVN, flat files, XML).</li>
 	<li>Provides access to data via REST webservice.</li>
-	<li>Interative web frontend (JavaScript, 3D framework).</li>
+	<li>Interactive web frontend (JavaScript, D3.js).</li>
 	<li>Full text search.</li>
 	<li>Filtering based on meta data.</li>
 	<li>Visualization of documents.</li>
-	<li>Modulare architecture -> Highly extendable</li>
+	<li>Modular architecture -> Highly extendable</li>
 	</ul>
 	</p>
 
@@ -32,7 +32,7 @@
 								Data Import
 							</h2>
 							<p>
-								So called crawlers are used to extract the metadata from a data source. The crawler uses the interfaces of the corresponding technology of the data source of which the metadata is to be extracted. Has a set of metadata in addition to the metadata attributes a reference to the full text document, the crawler evaluates this reference and importes the related documents. A metadata record is retrieved by the crawler, stored in the Knowledge Finder and prepared for indexing per data entry. The crawling is an offline activity, which is typically ran once a day due to the enormous amount of data in many projects. Then the data can be indexed.
+								So called crawlers are used to extract the metadata from a data source. The crawler uses the interfaces of the corresponding technology of the data source of which the metadata is to be extracted. Has a set of metadata in addition to the metadata attributes a reference to the full text document, the crawler evaluates this reference and imports the related documents. A metadata record is retrieved by the crawler, stored in the Knowledge Finder and prepared for indexing per data entry. The crawling is an offline activity, which is typically ran once a day due to the enormous amount of data in many projects. Then the data can be indexed.
 							</p>
 						</div><!-- /.col-md-6 -->
 
@@ -84,7 +84,7 @@
 								Search
 							</h2>
 							<p>
-								After indexing, the search engine can access the index and search the respective databases. For this purpose, this component runs alongside the actual search through the interaction with the user. Here, the processing of the query, the relevance determination, and presentation of results will take place. To perform the search, this component first transformes the information needs of the user in an appropriate form of representation. Subsequently, a search and the subsequent ranking is performed. Recently the search engine presents the result set within the user interface. To generate the facets, the search engine also uses the metadata model.
+								After indexing, the search engine can access the index and search the respective databases. For this purpose, this component runs alongside the actual search through the interaction with the user. Here, the processing of the query, the relevance determination, and presentation of results will take place. To perform the search, this component first transforms the information needs of the user in an appropriate form of representation. Subsequently, a search and the subsequent ranking is performed. Recently the search engine presents the result set within the user interface. To generate the facets, the search engine also uses the metadata model.
 							</p>
 						</div><!-- /.col-md-6 -->
 
