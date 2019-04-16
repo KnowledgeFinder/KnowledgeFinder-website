@@ -10,24 +10,24 @@ Based on [Pelican](http://blog.getpelican.com/) and a modified Polar theme by [C
 
 * Install Pelican and supporting libraries
 
-  ```
+```
 pip install pelican
 pip install markdown
 pip install fabric
 pip install ghp-import
 ```
   or if you are using Windows
-  ```
+```
 pip install https://github.com/chevah/ghp-import/archive/win-support.zip 
 ```
 
 * Clone KnowledgeFinder
 
-  ```
+```
 git clone https://github.com/KnowledgeFinder/knowledgefinder.github.io.git
 ```
   or
-  ```
+```
 git clone git@github.com:KnowledgeFinder/knowledgefinder.github.io.git
 ```
 
@@ -35,7 +35,7 @@ git clone git@github.com:KnowledgeFinder/knowledgefinder.github.io.git
 
 * Switch to ```source``` branch.
   
-  ```
+```
 git checkout source
 ```
 
@@ -43,7 +43,7 @@ git checkout source
 
  * Set proper port for local testing which works on your machine in `fabfile.py`
 
-  ```
+```
 # Port for `serve`
 PORT = 8001
 ```
@@ -51,17 +51,17 @@ PORT = 8001
 ## Build 
 
  * Generate website 
-  ```
+```
 fab build
 ```
-   (If you are using Windows and are getting the error ```ImportError: No module named Crypto.PublicKey´´´, rename the crypto folder in site-packages to Crypto.)
+   (If you are using Windows and are getting the error ```ImportError: No module named Crypto.PublicKey```, rename the crypto folder in site-packages to Crypto.)
  * Start local server for testing (accessible via http://localhost:[port]/)
-  ```
+```
 fab serve
 ```
 
  * Convenience target for rebuild and starting local server
-  ```
+```
 fab reserve
 ```
 
