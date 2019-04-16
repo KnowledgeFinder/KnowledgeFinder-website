@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>KnowledgeFinder</title><link href="/" rel="alternate"></link><link href="/feeds/releases.atom.xml" rel="self"></link><id>/</id><updated>2016-09-14T15:00:00+02:00</updated><entry><title>KnowledgeFinder v1.0</title><link href="/knowledgefinder-v10.html" rel="alternate"></link><published>2016-09-14T15:00:00+02:00</published><updated>2016-09-14T15:00:00+02:00</updated><author><name>KF</name></author><id>tag:,2016-09-14:knowledgefinder-v10.html</id><summary type="html">&lt;p&gt;We are proud to announce the first open source version of KnowledgeFinder.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>KnowledgeFinder - Releases</title><link href="/" rel="alternate"></link><link href="/feeds/releases.atom.xml" rel="self"></link><id>/</id><updated>2016-09-14T15:00:00+02:00</updated><entry><title>KnowledgeFinder v1.0</title><link href="/knowledgefinder-v10.html" rel="alternate"></link><published>2016-09-14T15:00:00+02:00</published><updated>2016-09-14T15:00:00+02:00</updated><author><name>KF</name></author><id>tag:None,2016-09-14:/knowledgefinder-v10.html</id><summary type="html">&lt;p&gt;We are proud to announce the first open source version of KnowledgeFinder.&lt;/p&gt;
+&lt;h2&gt;Source Code&lt;/h2&gt;
+&lt;p&gt;The source code can be found on &lt;a href="https://github.com/KnowledgeFinder"&gt;GitHub&lt;/a&gt;. It consist of four projects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/KnowledgeFinder/knowledgefinder-core"&gt;KnowledgeFinder Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/KnowledgeFinder/knowledgefinder-dataimport"&gt;KnowledgeFinder Dataimport&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/KnowledgeFinder/knowledgefinder-webservice"&gt;KnowledgeFinder Webservice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/KnowledgeFinder/knowledgefinder-config-example"&gt;KnowledgeFinder Example Configuration&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Feature&lt;/h2&gt;
+&lt;h3&gt;Dataimport&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;SVN data store crawler and parser&lt;/li&gt;
+&lt;li&gt;Category parser&lt;/li&gt;
+&lt;li&gt;Solr Transformer&lt;ul&gt;
+&lt;li&gt;ArrayToStringTransformer&lt;/li&gt;
+&lt;li&gt;AuthorFormatingTransformer …&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;We are proud to announce the first open source version of KnowledgeFinder.&lt;/p&gt;
 &lt;h2&gt;Source Code&lt;/h2&gt;
 &lt;p&gt;The source code can be found on &lt;a href="https://github.com/KnowledgeFinder"&gt;GitHub&lt;/a&gt;. It consist of four projects:&lt;/p&gt;
 &lt;ul&gt;
@@ -61,4 +77,4 @@
 &lt;h2&gt;Documentation&lt;/h2&gt;
 &lt;p&gt;The documentation can be found in the respective repository. The main documentation can be found in the &lt;a href="https://github.com/KnowledgeFinder/knowledgefinder-core/wiki"&gt;core project&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;How to start&lt;/h2&gt;
-&lt;p&gt;Follow the installation instructions in the documentation. Therewith an example project will be installed, allowing you to experience KnowledgeFinder with some data.&lt;/p&gt;</summary></entry></feed>
+&lt;p&gt;Follow the installation instructions in the documentation. Therewith an example project will be installed, allowing you to experience KnowledgeFinder with some data.&lt;/p&gt;</content></entry></feed>
