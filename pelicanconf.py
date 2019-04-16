@@ -26,7 +26,8 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Simulation and Software Technology', 'http://www.dlr.de/sc'),
-         ('Impressum', 'http://www.dlr.de/dlr/desktopdefault.aspx/tabid-10067/149_read-17/'),)
+    ('Imprint', '/pages/imprint.html'),
+    ('Privacy', '/pages/privacy.html'),)
 
 GITHUB_URL = 'https://github.com/KnowledgeFinder'
 TWITTER_USERNAME = 'dlr_software'
